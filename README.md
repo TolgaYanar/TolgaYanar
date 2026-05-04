@@ -17,7 +17,7 @@
 - 💻 Building **full-stack web applications** with modern technologies
 - 🌱 Currently learning **Next.js, React Native, and WebRTC**
 - 🎯 Passionate about **real-time applications** and **collaborative tools**
-- 📫 Reach me at: **your.email@bilkent.edu. tr**
+- 📫 Reach me at: **tolga.yanar@bilkent.edu.tr**
 
 ---
 
